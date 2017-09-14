@@ -1,0 +1,15 @@
+{
+    "name": "node-mysql-demo",
+    "version": "1.0.0",
+    "description": "An example of nodejs mysql",
+    "author": "Jack <fernando.zamora.jimenez@gmail.com>",
+    "dependencies": {
+        "async": "",
+        "express": "",
+        "mysql": "",
+	"inquirer": ""
+    },
+    "private": true,
+    "analyze": true,
+    "license": "MIT"
+}
